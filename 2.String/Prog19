@@ -1,0 +1,17 @@
+WAP to create UDF which create 2 list Student and Address which contain student name and respected address of student.
+
+Create new UDF which print student name with appropiate student address. 
+
+For example :
+
+L1=["om","sai","ram"]
+
+L2=["Bardoli","Surat","Navsari"]
+
+Output
+
+Om live in Bardoli
+
+Sai live in Surat
+
+Ram live in Navsari

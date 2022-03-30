@@ -1,0 +1,5 @@
+Create a list of 5 value with filename and extension. Replace extension with".c" with ".py" and print new list.
+
+filenames = ["program.c", "stdio.c", "sample.c", "a.py", "math.py", "hpp.py"]
+
+Output: filenames = ["program.py", "stdio.py", "sample.py", "a.py", "math.py", "hpp.py"]

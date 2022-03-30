@@ -1,0 +1,7 @@
+WAS to implement menu driven program to perform following operation
+
+1. Print frequency of Character { Rama : R --> 1, a-->2, m-->1 }
+
+2. Print Only Unique Character { Rama : Ram}
+
+3. Print Word > n { Print those word from sentence whose length is greater than "n(take input)" }
